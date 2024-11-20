@@ -1,0 +1,7 @@
+readyapi
+uuid
+uvicorn
+gunicorn
+WebSockets
+python-dotenv
+aioredis
